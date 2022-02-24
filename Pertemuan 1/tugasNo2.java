@@ -5,7 +5,7 @@ public class tugasNo2{
 		
 		static void rumusKecepatan(){
 		Scanner input = new Scanner(System.in);
-		System.out.print("Rumus Kecepatan");
+		System.out.println("Rumus Kecepatan");
 		System.out.print("Masukkan s : ");
 		double s = input.nextDouble();
 		System.out.print("Masukkan t : ");
@@ -16,7 +16,7 @@ public class tugasNo2{
 		
 		static void rumusJarak(){
 		Scanner input = new Scanner(System.in);
-		System.out.print("Rumus Jarak");
+		System.out.println("Rumus Jarak");
 		System.out.print("Masukkan v : ");
 		double v = input.nextDouble();
 		System.out.print("Masukkan t : ");
@@ -27,7 +27,7 @@ public class tugasNo2{
 		
 		static void rumusWaktu(){
 		Scanner input = new Scanner(System.in);
-		System.out.print("Rumus Waktu");
+		System.out.println("Rumus Waktu");
 		System.out.print("Masukkan s : ");
 		double s = input.nextDouble();
 		System.out.print("Masukkan v : ");
