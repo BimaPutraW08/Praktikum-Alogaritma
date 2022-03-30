@@ -3,7 +3,6 @@ public class Sum{
     public int perusahaan [];
     public double keuntungan[];
     public double total;
-
     Sum(int elemen, int jumlahPeru){
         this.elemen = new int [elemen];
         this.keuntungan = new double [elemen];
